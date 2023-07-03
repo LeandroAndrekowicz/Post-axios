@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "nome": "Motorola",
+      "valor": "1000",
+      "descricao": "Balança e liga a luzinha",
+      "id": 2
+    },
+    {
+      "nome": "Motorola",
+      "valor": "29939",
+      "descricao": "Balança e liga a luzinha",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
